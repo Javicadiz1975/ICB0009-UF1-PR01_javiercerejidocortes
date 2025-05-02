@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj": {}
+    "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj": {
+    "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj",
+        "projectUniqueName": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj",
         "projectName": "ClaveAsimetricaClass",
-        "projectPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj",
+        "projectPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj",
         "packagesPath": "C:\\Users\\ivajc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\ClaveAsimetricaClass\\obj\\",
+        "outputPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\ClaveAsimetricaClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivajc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj": {
+    "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj",
+        "projectUniqueName": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj",
         "projectName": "ClaveSimetricaClass",
-        "projectPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj",
+        "projectPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj",
         "packagesPath": "C:\\Users\\ivajc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\ClaveSimetricaClass\\obj\\",
+        "outputPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\ClaveSimetricaClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivajc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -120,14 +120,14 @@
         }
       }
     },
-    "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj": {
+    "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj",
+        "projectUniqueName": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj",
         "projectName": "SimulacionEnvioRecepcion",
-        "projectPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj",
+        "projectPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\SimulacionEnvioRecepcion\\SimulacionEnvioRecepcion.csproj",
         "packagesPath": "C:\\Users\\ivajc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\SimulacionEnvioRecepcion\\obj\\",
+        "outputPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\SimulacionEnvioRecepcion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivajc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -142,11 +142,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj": {
-                "projectPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj"
+              "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj": {
+                "projectPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\ClaveAsimetricaClass\\ClaveAsimetricaClass.csproj"
               },
-              "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj": {
-                "projectPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj"
+              "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj": {
+                "projectPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj"
               }
             }
           }
@@ -165,6 +165,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

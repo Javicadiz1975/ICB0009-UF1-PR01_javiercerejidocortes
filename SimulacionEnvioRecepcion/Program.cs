@@ -3,6 +3,7 @@ using System.Text;
 using System.Security.Cryptography;
 using ClaveSimetricaClass;
 using ClaveAsimetricaClass;
+using BCrypt.Net;
 
 namespace SimuladorEnvioRecepcion
 {
@@ -17,8 +18,7 @@ namespace SimuladorEnvioRecepcion
 
         static string TextoAEnviar = "Me he dado cuenta que incluso las personas que dicen que todo está predestinado y que no podemos hacer nada para cambiar nuestro destino igual miran antes de cruzar la calle. Stephen Hawking.";
         
-
-        
+  
         static void Main(string[] args)
         {
 
@@ -27,11 +27,15 @@ namespace SimuladorEnvioRecepcion
             Console.WriteLine ("¿Deseas registrarte? (S/N)");
             string registro = Console.ReadLine ();
 
-            if (registro =="S")
+            if (registro.Trim().ToUpper() == "S")
             {
                 //Realizar registro del cliente
                 Registro();                
+            }else{
+                
+                 Environment.Exit(0);
             }
+        
 
             //Realizar login
             bool login = Login();
@@ -81,6 +85,11 @@ namespace SimuladorEnvioRecepcion
 
             /***PARTE 1***/
             /*Añadir el código para poder almacenar el password de manera segura*/
+
+            // Hash con bcrypt (genera su propio salt)
+            SecurePass = BCrypt.Net.BCrypt.HashPassword(passwordRegister);
+
+            Console.WriteLine("Registro completado con éxito.");   
 
         }
 

@@ -10,3 +10,15 @@ C:\Users\ivajc\Desktop\M09\UF1 Seguridad y criptografía\Practica\ICB0009-UF1-Pr
 C:\Users\ivajc\Desktop\M09\UF1 Seguridad y criptografía\Practica\ICB0009-UF1-Pr01 Enunciado\ClaveAsimetricaClass\obj\Debug\net8.0\refint\ClaveAsimetricaClass.dll
 C:\Users\ivajc\Desktop\M09\UF1 Seguridad y criptografía\Practica\ICB0009-UF1-Pr01 Enunciado\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.pdb
 C:\Users\ivajc\Desktop\M09\UF1 Seguridad y criptografía\Practica\ICB0009-UF1-Pr01 Enunciado\ClaveAsimetricaClass\obj\Debug\net8.0\ref\ClaveAsimetricaClass.dll
+C:\Users\ivajc\Desktop\M09\UF1 Seguridad y criptografía\Practica\ICB0009-UF1-PR01_javiercerejidocortes\ClaveAsimetricaClass\bin\Debug\net8.0\ClaveAsimetricaClass.deps.json
+C:\Users\ivajc\Desktop\M09\UF1 Seguridad y criptografía\Practica\ICB0009-UF1-PR01_javiercerejidocortes\ClaveAsimetricaClass\bin\Debug\net8.0\ClaveAsimetricaClass.dll
+C:\Users\ivajc\Desktop\M09\UF1 Seguridad y criptografía\Practica\ICB0009-UF1-PR01_javiercerejidocortes\ClaveAsimetricaClass\bin\Debug\net8.0\ClaveAsimetricaClass.pdb
+C:\Users\ivajc\Desktop\M09\UF1 Seguridad y criptografía\Practica\ICB0009-UF1-PR01_javiercerejidocortes\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivajc\Desktop\M09\UF1 Seguridad y criptografía\Practica\ICB0009-UF1-PR01_javiercerejidocortes\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.AssemblyInfoInputs.cache
+C:\Users\ivajc\Desktop\M09\UF1 Seguridad y criptografía\Practica\ICB0009-UF1-PR01_javiercerejidocortes\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.AssemblyInfo.cs
+C:\Users\ivajc\Desktop\M09\UF1 Seguridad y criptografía\Practica\ICB0009-UF1-PR01_javiercerejidocortes\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.csproj.CoreCompileInputs.cache
+C:\Users\ivajc\Desktop\M09\UF1 Seguridad y criptografía\Practica\ICB0009-UF1-PR01_javiercerejidocortes\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.sourcelink.json
+C:\Users\ivajc\Desktop\M09\UF1 Seguridad y criptografía\Practica\ICB0009-UF1-PR01_javiercerejidocortes\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.dll
+C:\Users\ivajc\Desktop\M09\UF1 Seguridad y criptografía\Practica\ICB0009-UF1-PR01_javiercerejidocortes\ClaveAsimetricaClass\obj\Debug\net8.0\refint\ClaveAsimetricaClass.dll
+C:\Users\ivajc\Desktop\M09\UF1 Seguridad y criptografía\Practica\ICB0009-UF1-PR01_javiercerejidocortes\ClaveAsimetricaClass\obj\Debug\net8.0\ClaveAsimetricaClass.pdb
+C:\Users\ivajc\Desktop\M09\UF1 Seguridad y criptografía\Practica\ICB0009-UF1-PR01_javiercerejidocortes\ClaveAsimetricaClass\obj\Debug\net8.0\ref\ClaveAsimetricaClass.dll

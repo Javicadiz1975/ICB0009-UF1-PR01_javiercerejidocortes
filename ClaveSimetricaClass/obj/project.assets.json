@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj",
+      "projectUniqueName": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj",
       "projectName": "ClaveSimetricaClass",
-      "projectPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj",
+      "projectPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\ClaveSimetricaClass\\ClaveSimetricaClass.csproj",
       "packagesPath": "C:\\Users\\ivajc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-Pr01 Enunciado\\ClaveSimetricaClass\\obj\\",
+      "outputPath": "C:\\Users\\ivajc\\Desktop\\M09\\UF1 Seguridad y criptografía\\Practica\\ICB0009-UF1-PR01_javiercerejidocortes\\ClaveSimetricaClass\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ivajc\\AppData\\Roaming\\NuGet\\NuGet.Config"
