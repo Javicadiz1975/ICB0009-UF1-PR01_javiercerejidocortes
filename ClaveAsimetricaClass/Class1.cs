@@ -20,12 +20,12 @@ namespace ClaveAsimetricaClass
         } 
 
 
-        public byte[] FirmarMensaje (byte[] MensajeBytes, RSAParameters ClavePublicaExterna)
-        {
-            RSACryptoServiceProvider RSA_Externo = new RSACryptoServiceProvider();
-            RSA_Externo.ImportParameters (ClavePublicaExterna);
-            return RSA_Externo.SignData(MensajeBytes,0,MensajeBytes.Length,SHA512.Create());
-        }
+        // public byte[] FirmarMensaje (byte[] MensajeBytes, RSAParameters ClavePublicaExterna)
+        // {
+        //     RSACryptoServiceProvider RSA_Externo = new RSACryptoServiceProvider();
+        //     RSA_Externo.ImportParameters (ClavePublicaExterna);
+        //     return RSA_Externo.SignData(MensajeBytes,0,MensajeBytes.Length,SHA512.Create());
+        // }
 
 
         public bool ComprobarFirma (byte[] FirmaBytes, byte[] textoDescifradoBytes)
