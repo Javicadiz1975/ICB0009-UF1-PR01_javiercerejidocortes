@@ -32,7 +32,7 @@ namespace SimuladorEnvioRecepcion
                 //Realizar registro del cliente
                 Registro();                
             }else{
-                
+
                  Environment.Exit(0);
             }
         
@@ -108,6 +108,23 @@ namespace SimuladorEnvioRecepcion
 
                 /***PARTE 1***/
                 /*Modificar esta parte para que el login se haga teniendo en cuenta que el registro se realizó con SHA512 y salt*/
+                if (userName == UserName)
+                {
+                    // Verifica password con bcrypt
+                    if (BCrypt.Net.BCrypt.Verify(Password, SecurePass))
+                    {
+                        auxlogin = true;
+                        Console.WriteLine("Login correcto.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Contraseña incorrecta.");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Usuario incorrecto.");
+                }
 
 
             }while (!auxlogin);
